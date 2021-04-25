@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on fine tuning large language models for summarization and question answering.
-- 🌱 I’m currently learning [Drake](https://drake.mit.edu/).
-- 👯 I’m looking to collaborate on robot task repositories.
+- 🌱 I’m currently learning more about [Drake](https://drake.mit.edu/),[Huggingface](https://huggingface.co), and [Rust](https://www.rust-lang.org/).
+- 👯 I’m looking to collaborate on robot task repositories, neural program synthesis, automated theorem proving, or open domain conversational question answering.
 - 🤔 I’m looking for help with getting a real live robot.
 - 💬 Ask me about graph machine learning.
 - 📫 How to reach me: email in bio.
